@@ -1,0 +1,19 @@
+1. What is time complexity and what is its relation to algorithms?
+    time complexity is the computational complexity that describes the amount of time it takes to run an algorithm.
+2. What is runtime?
+    the physical time duration of an algorithm and is often used synonmymously with time complexity
+3. How is the runtime of an algorithm calculated?
+    0(f(n))
+4. Name the six types of algorithm growth rates we saw in this checkpoint and list them in order of most efficient to least efficient. Now Google another algorithmic growth rate not covered and place it in the correct spot in your list.
+    constant growth rate, logarithmic growth rate, linear growth rate, log-linear growth rate, quadratic growth rate, cubic growth rate and exponential growth rate.
+    
+5. Choose one of the algorithmic growth rates from the last question and make a comparison to a real-life situation.
+    linear growth rate - the door guy at work scanning everyone in
+6.Determine the time complexity of the following snippet of code. It is commonly known as a linear search.
+   0(n)
+7. Determine the time complexity of the following snippet of code.
+    0(n^2)
+8. Determine the time complexity of the following snippet of code. It is commonly known as the Fibonacci sequence.
+    0(1.6180)^n
+9. Out of the code snippets you just saw, which is the most time efficient?
+    linear search
